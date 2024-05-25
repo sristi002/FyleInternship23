@@ -107,6 +107,6 @@ coverage report for `API Service`:
 
 
 <center>
-<h3 align="center">💫 Designed and Developed with ❤️ by <a href="https://github.com/othegagan/">Gagan Kumar</a> （づ￣3￣）づ╭❤️～ </h3>
-<p align="center"> Don't be shy to contact 🤙 +91-9036644552  <a href="mailto:hellothegagan@gmail.com">hellothegagan@gmail.com</a> 📫</p>
+<h3 align="center">💫 Designed and Developed with ❤️ by <a href="https://github.com/sristi002/">Sristi Agarwal</a> （づ￣3￣）づ╭❤️～ </h3>
+
 </center>
