@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Web application built as a part of Fyle Frontend Internship Challenge 2023.
+Web application built as a part of Fyle Frontend Internship Challenge 2024.
 </h3>
 <p align="center">
  It allows users to search for other  GitHub users by username and view their profile, including their repositories, followers, following, location.
@@ -13,7 +13,7 @@ Web application built as a part of Fyle Frontend Internship Challenge 2023.
 <img src="https://i.imgur.com/y4oV9VV.png" alt="colored line"  witdth="100px" align="left">
 </br>
 
-<p >Live Site :  https://fyle-internship-challenge-23.vercel.app/ </p>
+
 
 
 ## Key Features 🔥
